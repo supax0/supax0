@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=white&style=flat)
