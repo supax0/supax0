@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi  👋
+I'm Madyan. 
+
+Dreaming of having one universal programing language, there is not. So, I am creating one. 🤔 
+
+[Visit SultanLang on GitHub](https://github.com/sultanlang) still beta
 
 <!--
 **supax0/supax0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
