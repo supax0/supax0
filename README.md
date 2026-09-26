@@ -1,22 +1,13 @@
-## Hi  👋
-I'm Madyan. 
+## Hi, I'm Madyan 👋
 
-Dreaming of having one universal programing language, there is not. So, I am creating one. 🤔 
+I'm building **SultanC**, a self-hosting systems programming language with first-class Arabic and English syntax.
 
-[SultanLang](https://github.com/sultanlang) 
+SultanC currently includes native ARM64 and x86-64 backends, ownership, generics, algebraic data types, pattern matching, an interpreter, and its own compiler toolchain.
 
-<!--
-**supax0/supax0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is on making programming languages more accessible across languages without sacrificing systems-level control or compiler design quality.
 
-Here are some ideas to get you started:
+### SultanC
+https://github.com/sultan-language/sultanc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Support the project
+https://github.com/sponsors/supax0
